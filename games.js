@@ -45,6 +45,6 @@ export const games = [
         image: "./assets/img/piedra-papel-tijera.png",
         cta: "Fight!",
         accent: "orange",
-        url: "#" // TODO: reemplazar cuando el grupo entregue
+        url: "https://rock-paper-scissors-psi-gray.vercel.app/"
     }
 ];
