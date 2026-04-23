@@ -11,7 +11,7 @@ export const games = [
         cta: "PLAY NOW",
         accent: "yellow",
         featured: true,
-        url: "#" // TODO: reemplazar cuando el grupo entregue
+        url: "https://mariaperis.github.io/CarnivalDOM_RandomLucky/" 
     },
     {
         id: "parejas",
