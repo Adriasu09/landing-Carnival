@@ -37,7 +37,7 @@ export const games = [
         image: "./assets/img/tiro-al-blanco.png",
         cta: "Aim",
         accent: "pink",
-        url: "#" // TODO: reemplazar cuando el grupo entregue
+        url: "https://luisafer9320.github.io/tiro-al-blanco/" 
     },
     {
         id: "piedra-papel-tijera",
