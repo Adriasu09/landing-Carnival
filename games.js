@@ -29,7 +29,7 @@ export const games = [
         image: "./assets/img/trileros.png",
         cta: "Bet",
         accent: "purple",
-        url: "#" // TODO: reemplazar cuando el grupo entregue
+        url: "https://lexyarraez.github.io/game-trileros/"
     },
     {
         id: "tiro-al-blanco",
